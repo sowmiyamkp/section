@@ -1,0 +1,85 @@
+.impact{
+	background-color:;
+	color:darkblue;
+	font-size:20px;
+	padding:10px;
+	margin:12px;
+	
+}
+.hello
+{
+	display:flex;
+	background
+    }
+	
+
+.impact h1
+{
+	 text-align:center;	
+	}
+
+
+	
+#dow
+{
+	margin:40px;
+	width:500px;
+	height:200px;
+	box-shadow:0px 0px 20px greenyellow;
+}
+#feat
+{
+	text-align:center;
+}
+
+
+	 
+#happy
+{
+ text-align:center;
+}	
+.who{
+	
+	padding-left:600px;
+}
+.para{
+	padding:20px;
+	border:20px inset deeppink;
+	color:black;
+	background-color:#87CEEB;
+	font-family:Apple Chancery, cursive;
+}
+nav
+{
+	overflow:hidden;
+	background-color:darkblue;
+	border:1px teal outset;
+	box-shadow:1px 1px 1px 1px teal;
+}
+
+nav a {
+	
+		float:left;
+		color:white;
+		text-align:center;
+		padding:20px 20px;
+		text-decoration:none;
+		font-size:20px;
+		font-style:italic;
+		font-weight:bolder;
+	   }
+	   
+nav a:hover
+			{
+				
+				background-color:pink;
+				color:browm;
+				
+			} 
+			
+			
+  #search
+  {
+	  padding:10px;
+	  margin:10px;
+  }
